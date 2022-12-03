@@ -1,6 +1,6 @@
 # AKING-PRO
 PAID TOOLS
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-TermuxTahmid-dimgray?style=flat-square&logo=github)](https://github.com/AKING110)<br> [![Facebook](https://img.shields.io/badge/Facebook-AKING-blue?style=flat-square&logo=facebook)](https://www.facebook.com/MR.AKING.07)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923237528063)
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-TermuxTahmid-dimgray?style=flat-square&logo=github)](https://github.com/TermuxTahmid)<br> [![Facebook](https://img.shields.io/badge/Facebook-TAHMID-blue?style=flat-square&logo=facebook)](https://www.facebook.com/https://Tahmid.Xhowdhury.Risha)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801990142727)
 
 
 
@@ -29,4 +29,4 @@ PAID TOOLS
 
 
  ___This Tools is Paid___</br>
- [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801990142727)
+ [![Whatsapp](https://img.shields.io/badge/Whatsapp-TAHMID-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801990142727)
